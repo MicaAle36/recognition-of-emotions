@@ -1,8 +1,9 @@
 # recognition-of-emotions
- ### Detection of key facial points for emotion recognition.
+ ### Introduction
 
 This repository contains code for a machine learning model that detects facial key points and emotions in images.
 
+### Requirements
 The data used can be found here: [DATA](https://drive.google.com/drive/folders/1Egmbp6jIiwggzAajX6EkinmLTd7r_hI0?usp=sharing)
 
 The libraries used are: 
