@@ -24,3 +24,5 @@ The libraries used are:
 ### How to use this repository
 
 * Clone the repository
+* Install libraries
+* Download the data
