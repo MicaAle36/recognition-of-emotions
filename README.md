@@ -21,6 +21,8 @@ The libraries used are:
 * [From google.colab.patches import cv2_imshow](https://colab.research.google.com/github/dphi-official/Deep_Learning_Bootcamp/blob/master/OpenCV/DL_Day12_OpenCV.ipynb)
 
 
-###How to use this repository
+### How to use this repository
 
 * Clone the repository
+* Install libraries
+* Download the data
