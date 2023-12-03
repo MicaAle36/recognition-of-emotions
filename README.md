@@ -19,3 +19,8 @@ The libraries used are:
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 * [Sklearn](https://scikit-learn.org/stable/install.html)
 * [From google.colab.patches import cv2_imshow](https://colab.research.google.com/github/dphi-official/Deep_Learning_Bootcamp/blob/master/OpenCV/DL_Day12_OpenCV.ipynb)
+
+
+###How to use this repository
+
+* Clone the repository
